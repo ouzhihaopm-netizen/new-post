@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of 智绘视觉 - 专业影像分析",
+  "description": "基于 Gemini 3 Flash 的高端图像分析工具。上传任何图片即可在精美的仪表盘中获得详细描述、物体检测、调色板和场景洞察。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
